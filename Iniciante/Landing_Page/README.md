@@ -1,5 +1,10 @@
 # Landing Page Amor de Patas
 
+
+## Capturas de Tela/Screenshots
+![Print da Tela](https://github.com/jessieFerrS/Projetos-Front-End/assets/114115950/149ec3a0-bbae-4199-be18-1edede692b98)
+
+
 ## **PT-BR**
 ## 📄Descrição
 Este projeto consiste na criação do Front-End de uma Landing Page responsiva para uma ong de adoção de animais fictícia de nome Amor de Patas, com o propósito de promover a causa e facilitar a interação com a comunidade.
@@ -22,11 +27,6 @@ Este projeto está sobre Licença MIT.
 
 ## 📚Documentação
 - https://developer.mozilla.org/pt-BR/
-
-## Capturas de Tela/Screenshots
-
-
-
 
 ## **EN-US**
 # Landing Page Amor de Patas
