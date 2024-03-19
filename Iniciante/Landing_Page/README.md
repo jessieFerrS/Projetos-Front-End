@@ -2,7 +2,18 @@
 
 
 ## Capturas de Tela/Screenshots
+Imagem Inicial da Tela em Desktop
+
 ![Print da Tela](https://github.com/jessieFerrS/Projetos-Front-End/assets/114115950/149ec3a0-bbae-4199-be18-1edede692b98)
+
+Imagem em Smartphone
+
+![Imagem Smartphone](https://github.com/jessieFerrS/Projetos-Front-End/blob/main/Iniciante/Landing_Page/img/Imagem%20em%20Smartphone.gif)
+
+Imagem em Tablet
+
+![Imagem Tablet](https://github.com/jessieFerrS/Projetos-Front-End/blob/main/Iniciante/Landing_Page/img/Imagem%20em%20Tablets.gif)
+
 
 
 ## **PT-BR**
