@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja Coca-Cola</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header>
+        <figure class="logo">
+            <img src="imagens/CocaCola_Logo.png" alt="" width="200px">
+        </figure>
+        <nav class="main-nav">
+            <ul>
+                <li><a href="">Whey</a></li>
+                <li><a href="">Menu</a></li>
+                <li><a href="">Sobre</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+    <main>
+        <!-- INICIO DO CARROSEL -->
+        <section class="carousel next">
+            <div class="list">
+
+                <!-- INICIO DO ITEM WHEY FRUTAS VERMELHAS -->
+                <article class="item other_1">
+                    <div class="main-content" style="background: linear-gradient(90deg, rgba(240,23,47,1) 0%, rgba(128,1,189,1) 50%, rgba(221,218,213,1) 100%)">
+                        <div class="content">
+                            <h2>Whey Frutas Vermelhas, uma nova criação de Coca-Cola</h2>
+                            <p class="preco">R$9,69</p>
+                            <p class="descricao">Whey Protein Pronto para Beber de Frutas Vermelhas é uma opção conveniente e deliciosa para quem busca uma dose rápida de proteína. Combinando a qualidade do whey protein com o frescor das frutas vermelhas.</p>
+                            <button class="addToCard">Adicione ao Carrinho</button>
+                        </div>
+                    </div>
+                    <figure class="image">
+                        <img src="imagens/Coca_Whey_Frutas_Vermelhas.png" alt="">
+                        <figcaption>Whey Frutas Vermelhas</figcaption>
+                    </figure>
+        
+                </article>
+                <!-- FIM DO ITEM WHEY FRUTAS VERMELHAS -->
+
+                <!-- INICIO DO ITEM WHEY ABACAXI E COCO -->
+                <article class="item active">
+                    <div class="main-content" style="background: linear-gradient(90deg, rgba(223,185,13,1) 0%, rgba(99,65,52,1) 50%, rgba(221,218,213,1) 100%);">
+                        <div class="content">
+                            <h2>Whey Abacaxi com Coco, uma nova criação de Coca-Cola</h2>
+                            <p class="preco">R$9,69</p>
+                            <p class="descricao">Whey Protein Pronto para Beber sabor Abacaxi com Coco é uma opção conveniente e deliciosa para quem busca uma dose rápida de proteína. Combinando a qualidade do whey protein com o frescor do Abacaxi e do Coco.</p>
+                            <button class="addToCard">Adicione ao Carrinho</button>
+                        </div>
+                    </div>
+                    <figure class="image">
+                        <img src="imagens/Coca_Whey_Coco_Abacaxi.png" alt="">
+                        <figcaption>Whey Abacaxi com Coco</figcaption>
+                    </figure>
+        
+                </article>
+                <!-- FIM DO ITEM WHEY ABACAXI E COCO -->
+
+                <!-- INICIO DO ITEM WHEY CHOCOLATE -->
+                <article class="item other_2">
+                    <div class="main-content" style="background: linear-gradient(275deg, rgba(44,26,11,1) 0%, rgba(233,222,222,1) 100%)">
+                        <div class="content">
+                            <h2>Whey Chocolate, uma nova criação de Coca-Cola</h2>
+                            <p class="preco">R$11,99</p>
+                            <p class="descricao">Whey Protein Pronto para Beber sabor Chocolate é uma opção conveniente e deliciosa para quem busca uma dose rápida de proteína. Combinando a qualidade do whey protein com o delicioso sabor do chocolate.</p>
+                            <button class="addToCard">Adicione ao Carrinho</button>
+                        </div>
+                    </div>
+                    <figure class="image">
+                        <img src="imagens/Coca_Whey_Choco.png" alt="">
+                        <figcaption>Whey Chocolate</figcaption>
+                    </figure>
+                </article>
+                <!-- FIM DO ITEM WHEY CHCOLATE -->
+
+                <!-- INICIO DO ITEM WHEY CAPUCCINO -->
+                <article class="item">
+                    <div class="main-content" style="background: linear-gradient(90deg, rgba(51,36,32,1) 0%, rgba(122,97,73,1) 50%, rgba(0,0,0,1) 100%)">
+                        <div class="content">
+                            <h2>Whey Capuccino, uma nova criação de Coca-Cola</h2>
+                            <p class="preco">R$11,99</p>
+                            <p class="descricao">Whey Protein Pronto para Beber sabor Capuccino é uma opção conveniente e deliciosa para quem busca uma dose rápida de proteína. Combinando a qualidade do whey protein com o delicioso sabor do capuccino.</p>
+                            <button class="addToCard">Adicione ao Carrinho</button>
+                        </div>
+                    </div>
+                    <figure class="image">
+                        <img src="imagens/Coca_Whey_Cappuccino.png" alt="">
+                        <figcaption>Whey Capuccino</figcaption>
+                    </figure>
+                </article>
+                <!-- FIM DO ITEM WHEY CAPUCCINO -->
+                
+            </div>
+            <div class="arrows">
+                <button id="prev">←</button>
+                <button id="next">→</button>
+            </div>
+        </section>
+        <!-- FIM DO CARROSEL -->
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
