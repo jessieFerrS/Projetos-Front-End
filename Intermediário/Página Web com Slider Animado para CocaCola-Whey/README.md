@@ -1,5 +1,9 @@
 # Página Web com Slider para "Coca-cola Whey"
 
+## 📸Imagens do Projeto
+<img src="imagens/Tela coca Whey.png">
+<img src="imagens/coca whey iphone.png">
+
 ## **PT-BR**
 ## 📄Descrição
 Este projeto foi criado para colocar em prática conceitos de frontend, podendo destacar o conceito de slide. O projeto consiste em uma página web para apresenta um novo produto FICTÍCIO da Coca-Cola - "Coca-cola Whey". A página possui ainda um botão de carrinho (sem lógica implementada). Todas as imagens da página foram feitas utilizando o Microsoft Copilot. 
@@ -31,7 +35,6 @@ Este projeto está sobre Licença MIT.
 ## 📚Documentação
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-------------------------------------------------------------------
 
 ## **EN-US**
 ## 📄Description
@@ -54,6 +57,9 @@ This project was created to put frontend concepts into practice, highlighting th
 - Use of ternary operators to set values for the indexes of the "other" items based on the position of the "active" item and the total number of items.
 - Use of forEach to iterate the slider items and apply animation styles.
 - Creating a timer for the slider's Autoplay using setInterval.
+
+## 🚨Observations:
+- Although the page shows an add to cart button, no backend logic has been implemented to add the product to the cart.
 
 ## ®️License
 This project is under the MIT License.
