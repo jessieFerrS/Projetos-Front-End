@@ -1,0 +1,137 @@
+{
+  "ingredientes": {
+    "breads": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      },
+      {
+        "id": 5,
+        "tipo": "Krabby Patty"
+      }
+    ],
+    "meats": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      },
+      {
+        "id": 5,
+        "tipo": "Grão de Bico"
+      }
+    ],
+    "toppings": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Picles"
+      },
+      {
+        "id": 4,
+        "tipo": "Alface"
+      },
+      {
+        "id": 5,
+        "tipo": "Ketchup"
+      },
+      {
+        "id": 5,
+        "tipo": "Mostarda"
+      },
+      {
+        "id": 5,
+        "tipo": "Maionese"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicitado"
+    },
+    {
+      "id": 2,
+      "tipo": "Em produção"
+    },
+    {
+      "id": 3,
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "name": "Bob esponja",
+      "meat": "Veggie burger",
+      "bread": "Krabby Patty",
+      "toppings": [
+        "Cebola roxa",
+        "Alface",
+        "Mostarda",
+        "Ketchup"
+      ],
+      "status": "Finalizado",
+      "id": 1
+    },
+    {
+      "name": "Ana Cláudia",
+      "meat": "Maminha",
+      "bread": "3 Queijos",
+      "toppings": [
+        "Bacon",
+        "Cebola roxa",
+        "Alface",
+        "Mostarda",
+        "Cheddar",
+        "Tomate",
+        "Picles",
+        "Ketchup",
+        "Maionese"
+      ],
+      "status": "Em produção",
+      "id": 2
+    }
+  ]
+}
