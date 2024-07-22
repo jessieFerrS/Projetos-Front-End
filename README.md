@@ -6,3 +6,4 @@
 
 ## 🟨 Intermediário
 1. [*Página Web com Slider Animado para CocaCola-Whey*](https://github.com/jessieFerrS/Projetos-Front-End/tree/main/Intermedi%C3%A1rio/P%C3%A1gina%20Web%20com%20Slider%20Animado%20para%20CocaCola-Whey)
+2. [*Website Restaurante Siricascudo*](https://github.com/jessieFerrS/Projetos-Front-End/tree/main/Intermedi%C3%A1rio/Website%20SiriCascudo%20(Krust%20Krab))
