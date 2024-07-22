@@ -2,7 +2,9 @@
 
 ## **PT-BR**
 ## 📸Imagens
-
+![](https://github.com/jessieFerrS/Projetos-Front-End/blob/main/Intermedi%C3%A1rio/Website%20SiriCascudo%20(Krust%20Krab)/Banner_TelaInicial.png)
+![](https://github.com/jessieFerrS/Projetos-Front-End/blob/main/Intermedi%C3%A1rio/Website%20SiriCascudo%20(Krust%20Krab)/Tela_FazerPedido.png)
+![](https://github.com/jessieFerrS/Projetos-Front-End/blob/main/Intermedi%C3%A1rio/Website%20SiriCascudo%20(Krust%20Krab)/Tela_GerenciarPedidos.png)
 ## 📄Descrição
 Este projeto envolve a criação de um site para um restaurante usando o framework vue.js. Para isso foi usado o famoso restaurante Siri Cascudo, do desenho animado Bob Esponja, para ser o cliente do projeto. O desenvolvimento do frontend foi feito usando o framework Vue.js, já o backend conta com um banco de dados JSON. A criação da imagem do banner ficou a cargo da Inteligência Artificial Copilot. 
 
